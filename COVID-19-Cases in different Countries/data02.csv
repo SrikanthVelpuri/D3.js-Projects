@@ -1,0 +1,463 @@
+name,day,Confirmed
+Italy,0,0
+Italy,1,2
+Italy,2,2
+Italy,3,2
+Italy,4,2
+Italy,5,2
+Italy,6,2
+Italy,7,2
+Italy,8,2
+Italy,9,3
+Italy,10,3
+Italy,11,3
+Italy,12,3
+Italy,13,3
+Italy,14,3
+Italy,15,3
+Italy,16,3
+Italy,17,3
+Italy,18,3
+Italy,19,3
+Italy,20,3
+Italy,21,3
+Italy,22,3
+Italy,23,20
+Italy,24,76
+Italy,25,157
+Italy,26,229
+Italy,27,322
+Italy,28,400
+Italy,29,650
+Italy,30,888
+Italy,31,1128
+Italy,32,1694
+Italy,33,2036
+Italy,34,2502
+Italy,35,3089
+Italy,36,3858
+Italy,37,4636
+Italy,38,5883
+Italy,39,7375
+Italy,40,9172
+Italy,41,10149
+Italy,42,12462
+Italy,43,15113
+Italy,44,17660
+Italy,45,21157
+Italy,46,24747
+Italy,47,27980
+Italy,48,31506
+Italy,49,35713
+Italy,50,41035
+Italy,51,47021
+Italy,52,53578
+Italy,53,59138
+Italy,54,63927
+Italy,55,69176
+Italy,56,74386
+Italy,57,80539
+Italy,58,86498
+Italy,59,92472
+Italy,60,97689
+Italy,61,101739
+Italy,62,105792
+China,0,0
+China,1,27
+China,2,27
+China,3,27
+China,4,44
+China,5,44
+China,6,59
+China,7,59
+China,8,59
+China,9,59
+China,10,59
+China,11,59
+China,12,59
+China,13,59
+China,14,59
+China,15,59
+China,16,59
+China,17,59
+China,18,63
+China,19,80
+China,20,216
+China,21,235
+China,22,386
+China,23,526
+China,24,623
+China,25,882
+China,26,1323
+China,27,1988
+China,28,2775
+China,29,4528
+China,30,5994
+China,31,7734
+China,32,9714
+China,33,11809
+China,34,14399
+China,35,17211
+China,36,20448
+China,37,24320
+China,38,28047
+China,39,31207
+China,40,34625
+China,41,37232
+China,42,40206
+China,43,42696
+China,44,44724
+China,45,59865
+China,46,64021
+China,47,66559
+China,48,68566
+China,49,70618
+China,50,72508
+China,51,74258
+China,52,74652
+China,53,75543
+China,54,76369
+China,55,77016
+China,56,77234
+China,57,77749
+China,58,78159
+China,59,78598
+China,60,78927
+China,61,79355
+China,62,79929
+China,63,80134
+China,64,80261
+China,65,80380
+China,66,80497
+China,67,80667
+China,68,80768
+China,69,80814
+China,70,80859
+China,71,80879
+China,72,80908
+China,73,80932
+China,74,80954
+China,75,80973
+China,76,80995
+China,77,81020
+China,78,81063
+China,79,81086
+China,80,81130
+China,81,81229
+China,82,81281
+China,83,81346
+China,84,81484
+China,85,81553
+China,86,81631
+China,87,81733
+China,88,81827
+China,89,81946
+China,90,82059
+China,91,82157
+China,92,82241
+Spain,0,0
+Spain,1,1
+Spain,2,1
+Spain,3,1
+Spain,4,1
+Spain,5,1
+Spain,6,1
+Spain,7,1
+Spain,8,1
+Spain,9,1
+Spain,10,2
+Spain,11,2
+Spain,12,2
+Spain,13,2
+Spain,14,2
+Spain,15,2
+Spain,16,2
+Spain,17,2
+Spain,18,2
+Spain,19,2
+Spain,20,2
+Spain,21,2
+Spain,22,2
+Spain,23,2
+Spain,24,2
+Spain,25,3
+Spain,26,7
+Spain,27,13
+Spain,28,25
+Spain,29,41
+Spain,30,58
+Spain,31,84
+Spain,32,123
+Spain,33,150
+Spain,34,198
+Spain,35,237
+Spain,36,365
+Spain,37,430
+Spain,38,589
+Spain,39,999
+Spain,40,1622
+Spain,41,2128
+Spain,42,2950
+Spain,43,4209
+Spain,44,5753
+Spain,45,7753
+Spain,46,9191
+Spain,47,11178
+Spain,48,13716
+Spain,49,17147
+Spain,50,19980
+Spain,51,24926
+Spain,52,28572
+Spain,53,33089
+Spain,54,39673
+Spain,55,47610
+Spain,56,56188
+Spain,57,64059
+Spain,58,72248
+Spain,59,78797
+Spain,60,85195
+Spain,61,94417
+Iran,0,0
+Iran,1,2
+Iran,2,5
+Iran,3,18
+Iran,4,28
+Iran,5,43
+Iran,6,61
+Iran,7,95
+Iran,8,139
+Iran,9,245
+Iran,10,388
+Iran,11,593
+Iran,12,978
+Iran,13,1501
+Iran,14,2336
+Iran,15,2922
+Iran,16,3513
+Iran,17,4747
+Iran,18,5823
+Iran,19,6566
+Iran,20,7161
+Iran,21,8042
+Iran,22,9000
+Iran,23,10075
+Iran,24,11364
+Iran,25,12729
+Iran,26,13938
+Iran,27,14991
+Iran,28,16169
+Iran,29,17361
+Iran,30,18407
+Iran,31,19644
+Iran,32,20610
+Iran,33,21638
+Iran,34,23049
+Iran,35,24811
+Iran,36,27017
+Iran,37,29406
+Iran,38,32332
+Iran,39,35408
+Iran,40,38309
+Iran,41,41495
+France,0,0
+France,1,3
+France,2,3
+France,3,3
+France,4,3
+France,5,4
+France,6,5
+France,7,6
+France,8,6
+France,9,6
+France,10,6
+France,11,6
+France,12,6
+France,13,6
+France,14,6
+France,15,11
+France,16,11
+France,17,11
+France,18,11
+France,19,11
+France,20,11
+France,21,11
+France,22,11
+France,23,11
+France,24,12
+France,25,12
+France,26,12
+France,27,12
+France,28,12
+France,29,12
+France,30,12
+France,31,12
+France,32,12
+France,33,14
+France,34,17
+France,35,38
+France,36,57
+France,37,100
+France,38,130
+France,39,178
+France,40,212
+France,41,285
+France,42,423
+France,43,613
+France,44,716
+France,45,1126
+France,46,1412
+France,47,1784
+France,48,2281
+France,49,2876
+France,50,3661
+France,51,4499
+France,52,5423
+France,53,6633
+France,54,7730
+France,55,9134
+France,56,10995
+France,57,12612
+France,58,14459
+France,59,16018
+France,60,19856
+France,61,22302
+France,62,25233
+France,63,29155
+France,64,32964
+France,65,37575
+France,66,40174
+France,67,44550
+United States of America,0,0
+United States of America,1,1
+United States of America,2,1
+United States of America,3,1
+United States of America,4,1
+United States of America,5,2
+United States of America,6,2
+United States of America,7,5
+United States of America,8,5
+United States of America,9,5
+United States of America,10,5
+United States of America,11,6
+United States of America,12,7
+United States of America,13,8
+United States of America,14,11
+United States of America,15,11
+United States of America,16,11
+United States of America,17,12
+United States of America,18,12
+United States of America,19,12
+United States of America,20,12
+United States of America,21,12
+United States of America,22,13
+United States of America,23,13
+United States of America,24,14
+United States of America,25,15
+United States of America,26,15
+United States of America,27,15
+United States of America,28,15
+United States of America,29,15
+United States of America,30,15
+United States of America,31,15
+United States of America,32,16
+United States of America,33,35
+United States of America,34,35
+United States of America,35,35
+United States of America,36,53
+United States of America,37,53
+United States of America,38,59
+United States of America,39,60
+United States of America,40,66
+United States of America,41,69
+United States of America,42,89
+United States of America,43,103
+United States of America,44,125
+United States of America,45,159
+United States of America,46,233
+United States of America,47,338
+United States of America,48,433
+United States of America,49,554
+United States of America,50,754
+United States of America,51,1025
+United States of America,52,1312
+United States of America,53,1663
+United States of America,54,2174
+United States of America,55,2951
+United States of America,56,3774
+United States of America,57,4661
+United States of America,58,6427
+United States of America,59,9415
+United States of America,60,14250
+United States of America,61,19624
+United States of America,62,26747
+United States of America,63,35206
+United States of America,64,46442
+United States of America,65,55231
+United States of America,66,69194
+United States of America,67,85991
+United States of America,68,104686
+United States of America,69,124665
+United States of America,70,143025
+United States of America,71,164620
+United Kingdom,0,0
+United Kingdom,1,2
+United Kingdom,2,2
+United Kingdom,3,2
+United Kingdom,4,2
+United Kingdom,5,2
+United Kingdom,6,2
+United Kingdom,7,2
+United Kingdom,8,3
+United Kingdom,9,3
+United Kingdom,10,4
+United Kingdom,11,4
+United Kingdom,12,8
+United Kingdom,13,8
+United Kingdom,14,9
+United Kingdom,15,9
+United Kingdom,16,9
+United Kingdom,17,9
+United Kingdom,18,9
+United Kingdom,19,9
+United Kingdom,20,9
+United Kingdom,21,9
+United Kingdom,22,9
+United Kingdom,23,9
+United Kingdom,24,9
+United Kingdom,25,13
+United Kingdom,26,13
+United Kingdom,27,13
+United Kingdom,28,13
+United Kingdom,29,16
+United Kingdom,30,18
+United Kingdom,31,23
+United Kingdom,32,36
+United Kingdom,33,40
+United Kingdom,34,51
+United Kingdom,35,85
+United Kingdom,36,115
+United Kingdom,37,163
+United Kingdom,38,206
+United Kingdom,39,273
+United Kingdom,40,321
+United Kingdom,41,373
+United Kingdom,42,456
+United Kingdom,43,590
+United Kingdom,44,707
+United Kingdom,45,1140
+United Kingdom,46,1391
+United Kingdom,47,1543
+United Kingdom,48,1950
+United Kingdom,49,2630
+United Kingdom,50,3277
+United Kingdom,51,3983
+United Kingdom,52,5018
+United Kingdom,53,5683
+United Kingdom,54,6650
+United Kingdom,55,8077
+United Kingdom,56,9529
+United Kingdom,57,11658
+United Kingdom,58,14543
+United Kingdom,59,17089
+United Kingdom,60,19522
+United Kingdom,61,22141
